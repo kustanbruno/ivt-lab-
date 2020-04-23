@@ -56,6 +56,7 @@ public class TorpedoStore {
   }
 
   public int getTorpedoCount() {
+    //visszaadja a torpedók számát
     return this.torpedoCount;
   }
 }
